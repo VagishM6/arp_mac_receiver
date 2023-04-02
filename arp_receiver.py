@@ -2,7 +2,7 @@ import subprocess
 import scapy.all as scapy
 import re
 
-get_ip = input("[+] IP > ")
+get_ip = input("[+] Enter Broadcasting IP address > ")
 get_mac = "ff:ff:ff:ff:ff:ff"
 
 
