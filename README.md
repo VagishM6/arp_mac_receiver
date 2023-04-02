@@ -2,4 +2,6 @@
 A python script that's able to receive mac addresses of connected devices, using arp protocol.
 
 ## used modules
-- scapy
+- scapy (pip install scapy)
+- subprocess
+- re
