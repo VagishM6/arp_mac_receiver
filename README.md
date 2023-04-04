@@ -6,4 +6,4 @@ The script will send a broadcasing signal to all the possible devices that it ca
 ## used modules
 - scapy (pip install scapy)
 - subprocess
-- re
+- re (regex)
